@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
-- 👯 I’m looking to collaborate on [Github Repositories](https://github.com/trending)
+- 🤗 I’m looking to collaborate on [Github Repositories](https://github.com/trending)
 
 - 🤝 I’m looking for help with [Github Actions](https://github.com/actions)
 
