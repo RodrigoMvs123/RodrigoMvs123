@@ -1,19 +1,44 @@
 <h1 align="center">Hi 👋, I am Rodrigo Vieira</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate developer and DevOps enthusiast from Brazil</h3>
 
-- 🌱 I’m currently learning **DevOps tools**
+---
 
-- 🤗 I’m looking to collaborate on [Github Repositories](https://github.com/trending)
+🌍 From the soccer fields of Brazil to international fashion runways, and now immersed in the world of software development and cloud infrastructure—my journey is truly global and multidisciplinary.
 
-- 🤝 I’m looking for help with [Github Actions](https://github.com/actions)
+⚽ I began my career as a professional soccer player (ages 14–19), followed by a decade in the international fashion industry (ages 21–31), living in cities like São Paulo, Mexico City, Seoul, New York, Los Angeles and Washington D.C. . These experiences shaped my adaptability, creativity, and cultural fluency.
 
-- 👨‍💻 All of my projects are available at [https://github.com/RodrigoMvs123](https://github.com/RodrigoMvs123)
+💻 I pivoted to technology by earning a degree in **Information Systems** in 2020. Since then, I’ve been diving into **Web Development**, **DevOps**, and **Cloud Infrastructure**, combining creativity with code to solve real-world problems.
 
-- 💬 Ask me about **JavaScript and Python**
+---
 
-- 📫 How to reach me **rodrigomvsrodrigo@gmail.com**
+- 🌱 I’m currently sharpening my skills in tools and technologies such as:  
+  ▸ **Web & Programming**: HTML, CSS, JavaScript, Python  
+  ▸ **Development Tools**: Visual Studio Code, Git, GitHub, Linux  
+  ▸ **DevOps & Cloud**: Docker, Jenkins, AWS, Kubernetes, Terraform  
+  ▸ **Databases**: SQLite, PostgreSQL  
+- 🤗 I’m looking to collaborate on [GitHub Repositories](https://github.com/trending)  
+- 👨‍💻 All of my projects are available at [github.com/RodrigoMvs123](https://github.com/RodrigoMvs123)  
+- 📫 Reach me at **rodrigomvsrodrigo@gmail.com**  
+- 📄 Know more about my story on [LinkedIn](https://www.linkedin.com/in/rodrigo-m-v-soares-3124b818a)  
 
-- 📄 Know about my experiences [https://www.linkedin.com/mwlite/profile/in/rodrigo-m-v-soares-3124b818a](https://www.linkedin.com/mwlite/profile/in/rodrigo-m-v-soares-3124b818a)
+---
+
+<h3 align="left">🎓 Lifelong Learning</h3>
+
+I actively learn from impactful educators:
+
+- [freeCodeCamp](https://www.freecodecamp.org/fcc976120e4-2ec4-4f6e-9f78-59e4faab2ee5) – for full stack development
+- [TechWorld with Nana](https://www.youtube.com/@TechWorld-with-Nana) – for DevOps and Cloud
+- [Ania Kubów](https://www.youtube.com/@AniaKubow) – for JavaScript and frontend development
+
+---
+
+<h3 align="left">⚡ Fun facts</h3>
+
+- 🧘 I practice Yôga, ride my bike, run, and play soccer to stay balanced and inspired.
+- 🌐 I bring a multicultural mindset to every project I touch.
+- 🔧 I'm a Junior Dev with a Senior work ethic—hungry to grow, ship code, and build things that matter.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
