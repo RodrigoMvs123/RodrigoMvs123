@@ -14,7 +14,7 @@
 ---
 
 - 🌱 I'm currently sharpening my skills in tools and technologies such as:  
-  ▸ **Web & Programming**: HTML, CSS, JavaScript, TypeScript, Python, React, Node.js  
+  ▸ **Web & Programming**: HTML, CSS, JavaScript, TypeScript, Python, React, Next, Node.js  
   ▸ **Development Tools**: Visual Studio Code, Git, GitHub, Linux  
   ▸ **DevOps & Cloud**: Docker, Jenkins, AWS, Google Cloud, Kubernetes, Terraform  
   ▸ **Databases**: SQLite, PostgreSQL  
