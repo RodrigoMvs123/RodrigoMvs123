@@ -3,7 +3,7 @@
 
 ---
 
-🌍 Hello! My name is Rodrigo and I am 38 years old, originally from Brazil. With a dynamic professional career whose journey has taken me across continents, from the soccer field and international fashion runways to the world of software engineering and cloud infrastructure.
+🌍 Hello! My name is Rodrigo and I am 39 years old, originally from Brazil. With a dynamic professional career whose journey has taken me across continents, from the soccer field and international fashion runways to the world of software engineering and cloud infrastructure.
 
 ⚽ My early years were shaped by dedication and adaptability. I started out as a professional soccer player (ages 14–19), which taught me discipline and teamwork.
 
@@ -33,7 +33,6 @@ To stay current and deepen my understanding, I actively follow and learn from so
 
 - [freeCodeCamp](https://www.freecodecamp.org/) – for full stack development
 - [TechWorld with Nana](https://www.youtube.com/@TechWorld-with-Nana) – for DevOps and Cloud tutorials
-- [Ania Kubów](https://www.youtube.com/@AniaKubow) – for frontend and JavaScript development
 
 ---
 
