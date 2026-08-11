@@ -27,15 +27,6 @@
 
 ---
 
-<h3 align="left">🎓 Lifelong Learning</h3>
-
-To stay current and deepen my understanding, I actively follow and learn from some of the most impactful online tech educators:
-
-- [freeCodeCamp](https://www.freecodecamp.org/) – for full stack development
-- [TechWorld with Nana](https://www.youtube.com/@TechWorld-with-Nana) – for DevOps and Cloud tutorials
-
----
-
 <h3 align="left">⚡ Fun facts</h3>
 
 - 🧘 I practice Yôga, ride my bike, run, and play soccer to stay balanced and inspired.
