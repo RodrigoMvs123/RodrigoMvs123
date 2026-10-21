@@ -23,7 +23,6 @@
 - 👨‍💻 All of my projects are available at [github.com/RodrigoMvs123](https://github.com/RodrigoMvs123)  
 - 📫 Reach me at **rodrigomvsrodrigo@gmail.com**  
 - 📄 Know more about my story on [LinkedIn](https://www.linkedin.com/in/rodrigo-m-v-soares-3124b818a/)
-- 🌐 Explore my personal website: [Lovable](https://rodrigomvs.lovable.app/).
 
 ---
 
